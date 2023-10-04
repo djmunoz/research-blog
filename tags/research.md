@@ -1,5 +1,5 @@
 ---
-layout: tag
+layout: _tags
 tag: Coding
 title: Posts tagged with "Coding"
 ---
