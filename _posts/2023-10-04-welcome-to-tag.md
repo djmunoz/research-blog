@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How can I add tags to a Jekyll blog?"
-tags: ["programming", "jekyll"]
+title: "Welcome to Theoretical Astrophysics Group"
+tags: ["coding", "research"]
 published: true
 ---
 
