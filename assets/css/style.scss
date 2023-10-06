@@ -5,3 +5,26 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+/* Style for the tags */
+.tags {
+  margin-top: 10px;
+}
+
+.tag {
+  display: inline-block;
+  padding: 5px 10px;
+  margin-right: 5px;
+  background-color: #f0f0f0; /* Background color for the rounded box */
+  border-radius: 20px; /* Rounded corners */
+  font-size: 14px; /* Adjust the font size as needed */
+}
+These CSS styles will create a rounded box for each tag with a specified background color and font size.
+
+Save your changes and rebuild/regenerate your Jekyll site to see the updated layout with tags displayed below the post titles.
+Remember that the specific file names and directory structures in your Jekyll theme may vary, so you may need to adapt these instructions to your theme's structure. Additionally, you might want to customize the CSS styles further to match your desired design.
+
+
+
+
+
