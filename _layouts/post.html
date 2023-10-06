@@ -35,11 +35,11 @@ layout: base
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-  <span>[
+  <span>
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/{{ site.github.project_title }}/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ <span class="tag">{{ tag_name }}</span> }}</nobr></code>&nbsp;</a>
+    <a href="/{{ site.github.project_title }}/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
-  ]</span>
+  </span>
 
 </article>
