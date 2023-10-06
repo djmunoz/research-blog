@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Theoretical Astrophysics Group"
-tags: ["Coding", Research"]
+tags: "Group Meetings", "Research"
 published: true
 ---
 
