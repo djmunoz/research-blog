@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Group Meeting (2023-10-10)"
+tags: ["Group Meetings", "Research"]
+published: true
+---
+
+
+
 [Tidal dissipation (Fuller)](https://arxiv.org/abs/2310.04588)
 [Streaming Instability (Tanaka)](https://arxiv.org/abs/2310.04611)
 [Binary Black Holes (Dittmann)](https://arxiv.org/abs/2310.03832)
