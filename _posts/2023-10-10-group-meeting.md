@@ -16,11 +16,11 @@ Papers for discussion
 
 [Binaries in AGN (Sari,Lai)](https://arxiv.org/abs/2310.03801)
 
-[Stellar flybys (Cuello,Nealon](https://arxiv.org/abs/2310.03327)
+[Stellar flybys (Cuello,Nealon)](https://arxiv.org/abs/2310.03327)
 
 [Planetary envelopes I (Zhu)](https://arxiv.org/abs/2310.03117)
 
-[Planetary envelopes I (Stone)](https://arxiv.org/abs/2310.03116)
+[Planetary envelopes II (Stone)](https://arxiv.org/abs/2310.03116)
 
 [Disk photo-evaporation (Haworth)](https://arxiv.org/abs/2310.03097)
 
