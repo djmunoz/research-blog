@@ -35,3 +35,5 @@ Papers for discussion
 [Gravitational wave background (Kalogera)](https://arxiv.org/abs/2310.02517)
 
 [Tidally locked super-Earth (Cowan)](https://arxiv.org/abs/2310.01725)
+
+[High-eccentricity migration (Howard)](https://arxiv.org/abs/2310.01567)
