@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Group Meeting (2023-10-10)"
+title: "Group Meeting"
 tags: ["Group Meetings", "Research"]
 published: true
 ---
 
-
+Papers for discussion
+---------------------
 
 [Tidal dissipation (Fuller)](https://arxiv.org/abs/2310.04588)
 
