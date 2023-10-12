@@ -32,15 +32,14 @@ where
 \begin{align}
 {\bf h}\equiv {\bf r}\times\dot{\bf r}
 \;\;\;\text{and}
-\\
+\;\;\;
 {\bf e}\equiv
 \frac{1}{G(m_1+m_2)}\dot{\bf r}\times({\bf r}\times\dot{\bf r)-\frac{\bf r}{|{\br r|}
 \end{align}
 
-4. What happens if there is an additional external force $${\bf f}_{\rm ext}$$ acting on the system, namely
-
+5. What happens if there is an additional external force $${\bf f}_{\rm ext} $$ acting on the system, namely
 \begin{align}
-\ddot{\bf r}={\bf f}_0+ {\bf f}_{\rm ext}
+\ddot{\bf r}={\bf f}_{0} + {\bf f}_{\rm ext}
 \end{align}
 
 where $${\bf f}_0$$ is the force (per unit mass) acting on the system when only mutual gravity is accounted for. Derive expressions for $$\dot{\bf h}$$ and $$\dot{\bf e}$$.
