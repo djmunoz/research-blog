@@ -34,7 +34,7 @@ where
 \;\;\;\text{and}
 \;\;\;
 {\bf e}\equiv
-\frac{1}{G(m_1+m_2)}\dot{\bf r}\times({\bf r}\times\dot{\bf r)-\frac{\bf r}{|{\br r|}
+\frac{1}{G(m_1+m_2)}\dot{\bf r}\times({\bf r}\times\dot{\bf r})-\frac{\bf r}{|{\br r|}
 \end{align}
 
 5. What happens if there is an additional external force $${\bf f}_{\rm ext} $$ acting on the system, namely
