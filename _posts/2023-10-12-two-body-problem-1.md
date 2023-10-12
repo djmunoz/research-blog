@@ -28,7 +28,7 @@ where
 
 2. Show that, in barycentric coordinates (i.e., $${\bf R}=0$$), the total angular momentum $$m_1{\bf r}_1\times\dot{\bf r}_1+m_2{\bf r}_2\times\dot{\bf r}_2$$ is equal to $$\mu{\bf r}\times\dot{\bf r}$$ where $$\mu=m_1m_2/(m_1+m_2)$$ is the system's reduced mass.
 
-3. Show that the following two vectors are constant of motion
+3. Show that the following two vectors are constants of motion
 \begin{align}
 {\bf h}\equiv {\bf r}\times\dot{\bf r}
 \;\;\;\text{and}
@@ -39,7 +39,7 @@ where
 
 5. What happens if there is an additional external force $${\bf f}_{\rm ext} $$ acting on the system, namely
 \begin{align}
-\ddot{\bf r}={\bf f}_0 + {\bf f}_{\rm ext}
+\ddot{\bf r}={\bf f}_0 + {\bf f}
 \end{align}
 
 where $${\bf f}_0$$ is the force (per unit mass) acting on the system when only mutual gravity is accounted for. Derive expressions for $$\dot{\bf h}$$ and $$\dot{\bf e}$$.
