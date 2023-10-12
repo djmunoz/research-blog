@@ -28,3 +28,11 @@ where
 
 2. Show that, in barycentric coordinates (i.e., $${\bf R}=0$$), the total angular momentum $$m_1{\bf r}_1\times\dot{\bf r}_1+m_2{\bf r}_2\times\dot{\bf r}_2$$ is equal to $$\mu{\bf r}\times\dot{\bf r}$$ where $$\mu=m_1m_2/(m_1+m_2)$$ is the system's reduced mass.
 
+3. Show that the following two vectors are constant of motion
+\begin{align}
+{\bf h}\equiv {\bf r}\times\dot{\bf r}
+\;\;\;\text{and}
+\\
+{\bf e}\equiv
+\frac{1}{G(m_1+m_2)}\dot{\bf r}\times({\bf r}\times\dot{\bf r)-\frac{\bf r}{|{\br r|}
+\end{align}
