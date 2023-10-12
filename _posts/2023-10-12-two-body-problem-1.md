@@ -38,6 +38,7 @@ where
 \end{align}
 
 5. What happens if there is an additional external force $${\bf f}_{\rm ext} $$ acting on the system, namely
+
 \begin{align}
 \ddot{\bf r}={\bf f}_{0} + {\bf f}_{\rm ext}
 \end{align}
