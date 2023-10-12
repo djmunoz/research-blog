@@ -40,7 +40,8 @@ where
 5. What happens if there is an additional external force $${\bf f}_{\rm ext} $$ acting on the system, namely
 
 \begin{align}
-\ddot{\bf r}={{\bf f}_0}+ {{\bf f}_{\rm ext}}
+\ddot{\bf r}={\bf f}_0
++ {\bf f}_{\rm ext}
 \end{align}
 
 where $${\bf f}_0$$ is the force (per unit mass) acting on the system when only mutual gravity is accounted for. Derive expressions for $$\dot{\bf h}$$ and $$\dot{\bf e}$$.
