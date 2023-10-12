@@ -7,6 +7,3 @@ published: true
 
 
 
-\begin{align}
-  V_{sphere} = \frac{4}{3}\pi r^3 \label{eq:test1}
-\end{align}
