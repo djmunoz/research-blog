@@ -17,11 +17,11 @@ gravitational interaction between two bodies can be expressed as the two followi
 
 Now you must define two new variables $$({\bf r}_1,{\bf r}_2)\rightarrow({\bf r},{\bf R})$$
 where
-\begin{equation}
+\begin{align}
 {\bf r}\equiv{\bf r}_2-{\bf r}_1,\;\;\text{and}
 \;\;\;
 {\bf R}\equiv \frac{m_1{\bf r}_1+m_2{\bf r}_2}{m_1+m2_}
-\end{equation}
+\end{align}
 
 
 \begin{align}
