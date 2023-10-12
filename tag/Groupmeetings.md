@@ -1,6 +1,6 @@
 ---
 layout: _tags
-tag: "Group Meetings"
+tag: ["Group Meetings"]
 title: Posts tagged with "Group Meetings"
 ---
 
