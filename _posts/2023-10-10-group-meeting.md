@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Group Meeting"
-tags: ["Group Meetings", "Research"]
+tags: ["Group-Meetings", "Research"]
 published: true
 ---
 
