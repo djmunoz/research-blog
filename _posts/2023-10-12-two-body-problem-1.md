@@ -7,3 +7,7 @@ published: true
 
 
 
+
+\begin{align}
+  V_{cube} = l w h \label{eq:test2}
+\end{align}
