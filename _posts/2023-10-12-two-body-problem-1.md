@@ -37,6 +37,8 @@ where
 \frac{1}{G(m_1+m_2)}\dot{\bf r}\times({\bf r}\times\dot{\bf r})-\frac{\bf r}{|\bf r|}
 \end{align}
 
+4. Assuming the orbit is an ellipse (it is!), write down explicit expressions for $${\bf r}$$ and $$\dot{\bf r}$$. Now draw the orbit/ellipse in a convenient system of coordinate axes. In this coordinate system, draw a few vectors corresponding to  $${\bf r}$$ and $$\dot{\bf r}$$ at different points along the orbit. Draw also $${\bf e}$$. Comment on the direction in which $${\bf e}$$ is pointing.
+
 5. What happens if there is an additional external force $${\bf f}_{\rm ext} $$ acting on the system, namely
 \begin{align}
 \ddot{\bf r}={\bf f}_0 + {\bf f} _ {\rm ext}
