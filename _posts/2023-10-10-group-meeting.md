@@ -37,3 +37,5 @@ Papers for discussion
 [Tidally locked super-Earth (Cowan)](https://arxiv.org/abs/2310.01725)
 
 [High-eccentricity migration (Howard)](https://arxiv.org/abs/2310.01567)
+
+[Aligned warm Jupiters (Petrovich)](https://arxiv.org/abs/2309.03306)
