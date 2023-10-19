@@ -10,8 +10,10 @@ Knowing how non-Keplerian forces affect the eccentricity and angular momentum ve
 
 1. Compute the dynamical effects
 
-\begin{equation}
-
-\end{equation}
+\begin{align}
+{\bf f}_{\rm ext}
+=\frac{GM}{r^3}{\bf r}
+\left(\frac{4GM}{r}-\dot{\bf r}\cdot\dot{\bf r}\right)
+\end{align}
 
 
