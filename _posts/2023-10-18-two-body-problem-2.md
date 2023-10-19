@@ -10,4 +10,8 @@ Knowing how non-Keplerian forces affect the eccentricity and angular momentum ve
 
 1. Compute the dynamical effects
 
+\begin{equation}
+
+\end{equation}
+
 
