@@ -14,6 +14,7 @@ Knowing how non-Keplerian forces affect the eccentricity and angular momentum ve
 {\bf f}_{\rm ext}
 =\frac{GM}{r^3}{\bf r}
 \left(\frac{4GM}{r}-\dot{\bf r}\cdot\dot{\bf r}\right)
++\frac{4GM}{r^2}\dot{r}\dot{\bf r}
 \end{align}
 
 
