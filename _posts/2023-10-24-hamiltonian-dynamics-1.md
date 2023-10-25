@@ -18,6 +18,14 @@ In the example given the Hamiltonian is the sum of a kinetic energy, $$p/2m$$, a
 \frac{d H}{dt}=0
 \end{align}
 
+i.e., that Hamiltonian is conserved, which is why we call such systems conservative.
+For Newtonian systems, the conserved value of $$H$$ is equal ot the total energy $$E$$.
+
 ### Example: The linear oscillator
 
-For the equations of motion to be linear the potential $$V(q)$$ must be at most quadratic.
+For the equations of motion to be linear the potential $$V(q)$$ must be at most quadratic. Such conditions are satisfied by the
+
+### Example: The linear repulsive force
+
+
+### Example: The cubic potential
