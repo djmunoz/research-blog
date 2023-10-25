@@ -11,3 +11,13 @@ In the example given the Hamiltonian is the sum of a kinetic energy, $$p/2m$$, a
 
 
 ### Conservative One-degree-of-freedom Hamiltonian Systems
+
+1. Show that if $$H=H(q,p)$$ and that the pair $$(q,p)$$ obeys Hamilton's equations of motion, then
+
+\begin{align}
+\frac{d H}{dt}=0
+\end{align}
+
+### Example: The linear oscillator
+
+For the equations of motion to be linear the potential $$V(q)$$ must be at most quadratic.
