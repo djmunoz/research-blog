@@ -16,17 +16,22 @@
     {%- include footer.html -%}
 
 
+    <!-- Include the JavaScript snippet here -->
+    <script src="/assets/js/simple-jekyll-search.min.js"></script>
+
     <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      const search = SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('search-results'),
-        json: '/search.json',
-        searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-        noResultsText: 'No results found',
+      document.addEventListener('DOMContentLoaded', function() {
+        const search = SimpleJekyllSearch({
+          searchInput: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('search-results'),
+          json: '/search.json',
+          searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+          noResultsText: 'No results found',
+        });
       });
-    });
-  </script>
+    </script>
+
+
 
   </body>
 
