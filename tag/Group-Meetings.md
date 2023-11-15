@@ -1,5 +1,5 @@
 ---
-layout: _tags
+layout: tags
 tag: ["Group-Meetings"]
 title: Posts tagged with "Group Meetings"
 ---
