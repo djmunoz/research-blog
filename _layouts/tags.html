@@ -9,7 +9,7 @@ layout: base
 
 <div class="post">
 <!-- <h1> Posts tagged with: {{ page.tag }}</h1> -->
-<h1 style="font-size:4em; "> Posts tagged with <span class="tag">{{ page.tag }}</span></h1>
+<h1 style="font-size:12px; "> Posts tagged with <span class="tag">{{ page.tag }}</span></h1>
 <ul>
 {% for post in site.tags[page.tag] %}
   <li><a href="/{{ site.github.project_title }}{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
