@@ -1,24 +1,11 @@
 ---
 layout: base
 ---
-<script src="/assets/js/simple-jekyll-search.min.js"></script>
 
 <div class="search-container">
   <input type="text" id="search-input" placeholder="Search...">
   <ul id="search-results"></ul>
 </div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const search = SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('search-results'),
-      json: '/search.json',
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      noResultsText: 'No results found',
-    });
-  });
-</script>
 
 <div class="post">
 <h1>Tag: {{ page.tag }}</h1>
