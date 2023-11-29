@@ -8,4 +8,8 @@ published: true
 Papers for discussion
 ---------------------
 
-[Grain-size measurements in protoplanetary disks](https://arxiv.org/abs/2311.07775)
+[Aligned warm Jupiter (Rice)](https://arxiv.org/abs/2311.16237)
+
+[Finding circumbinary planets (Fabrycky,Martin)](https://arxiv.org/abs/2311.16677)
+
+[Polarization measurements of Didymos-Dimorphos (DART)](https://arxiv.org/abs/2311.13483)
