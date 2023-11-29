@@ -26,5 +26,5 @@ Papers for discussion
 
 [Galactic Center SMBH VI (EHT)](https://arxiv.org/abs/2311.09484)
 
-[Super-mass binary black holes (Charisi)](https://arxiv.org/abs/2311.10851)
+[Super-massive binary black holes (Charisi)](https://arxiv.org/abs/2311.10851)
 
