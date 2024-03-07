@@ -8,11 +8,11 @@ published: true
 Papers for discussion
 ---------------------
 
-[Formation of super-Mercuries via giant impacts (Leinhardt](https://arxiv.org/abs/2403.03831)
+[Formation of super-Mercuries via giant impacts (Leinhardt)](https://arxiv.org/abs/2403.03831)
 
 [ALMA Protostellar system on disk scales (van Dishoeck)](https://arxiv.org/abs/2402.18631)
 
-[Partial Tidal Disruption Events] (https://arxiv.org/abs/2402.18812)
+[Partial Tidal Disruption Events](https://arxiv.org/abs/2402.18812)
 
 [Resolved ALMA observations of water (Isella)](https://arxiv.org/abs/2403.00647)
 
