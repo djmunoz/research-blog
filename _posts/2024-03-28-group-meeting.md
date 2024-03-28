@@ -39,5 +39,6 @@ Papers for discussion
 
 [Which came first: supermassive black holes or galaxies? (Silk,Begelman)](https://arxiv.org/abs/2401.02482)
 
+[Stellar obliquity measurements](https://arxiv.org/abs/2403.15631)
 
 
