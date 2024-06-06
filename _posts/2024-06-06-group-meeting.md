@@ -25,5 +25,14 @@ Papers for discussion
 
 [Systems Consistent with High-eccentricity Migration?(Dai)](https://arxiv.org/abs/2406.00187)
 
+[Circumstellar Debris Disk around Exoplanet Host WASP-39 (Weinberger)](https://arxiv.org/abs/2406.02305)
+
+[Close Kuiper Belt Binaries with HST (Grundy)](https://arxiv.org/abs/2406.02808)
+
+[Warped Disk Evolution in Grid-Based Simulations (Dullemond)](https://arxiv.org/abs/2406.02754)
+
+[Eccentricity evolution of PTA sources (Dehnen)](https://arxiv.org/abs/2406.02710)
+
+
 
 
