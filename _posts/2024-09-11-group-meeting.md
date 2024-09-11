@@ -12,7 +12,7 @@ Papers for discussion
 
 [Orbital Architectures of Planet-Hosting Binaries (Dupuy,Krauss,Ansdell)](https://arxiv.org/abs/2409.02223)
 
-[Horseshoes and spiral waves (Ogilvie)](https://arxiv.org/abs/2409.02687)`
+[Horseshoes and spiral waves (Ogilvie)](https://arxiv.org/abs/2409.02687)
 
 [Do anomalously-dense hot Jupiters orbit stealth binary stars? (Collier-Cameron)](https://arxiv.org/abs/2409.02639)
 
