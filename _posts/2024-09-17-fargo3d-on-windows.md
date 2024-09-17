@@ -14,9 +14,14 @@ I have asked NAU undergraduate Noah Gordon to look into installing the state-of-
 Intalling FARGO3D on Windows Powershell
 =======================================
 
-# Chapter 1
+# Installing a package manager like Chocolatey
 
-Lots of text.
+```console
+foo@bar:~$ whoami
+foo
+```
+
+Lots of text.#
 
 ---
 
