@@ -14,7 +14,7 @@ I have asked NAU undergraduate Noah Gordon to look into installing the state-of-
 Intalling FARGO3D on Windows Powershell
 =======================================
 
-# Installing a package manager like Chocolatey
+## Installing a package manager like Chocolatey
 
 To compile FARGO3D we need `cmake`. We will install it using the package manager [Chocolatey](https://community.chocolatey.org/packages/cmake)
 
