@@ -2,12 +2,11 @@
 layout: post
 title: "Group Meeting"
 tags: ["Group-Meetings", "Research"]
-published: true
+published: false
 ---
 
 Papers for discussion
 ---------------------
-
 
 [Simulations of Shadows on Transition Disks (Zhu)](https://arxiv.org/abs/2409.08373)
 
