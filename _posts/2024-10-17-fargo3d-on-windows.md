@@ -2,7 +2,8 @@
 layout: post
 title: "Installing and Running FARGO3D on Windows"
 tags: ["Coding", "Research"]
-published: True
+published: False
+date: 2024-19-17
 author:  "Noah R. Gordon"
 ---
 
