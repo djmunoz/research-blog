@@ -2,7 +2,7 @@
 layout: post
 title: "Group Meeting"
 tags: ["Group-Meetings", "Research"]
-published: false
+published: true
 ---
 
 Papers for discussion
