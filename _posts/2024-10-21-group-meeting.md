@@ -39,3 +39,17 @@ Papers for discussion
 [Global Simulations of Gravitational Instability in Protostellar Disk (Jian,Stone)](https://arxiv.org/abs/2410.12042)
 
 [Metal pollution in Sun-like stars from destruction of ultra-short-period planets (O'Connor,Lai)](https://arxiv.org/abs/2410.11935)
+
+[Dynamical Stability of the Laplace Resonance](https://arxiv.org/abs/2410.12768)
+
+[Most High-density Exoplanets Are Unlikely to Be Remnant Giant-planet Cores (Seager)](https://arxiv.org/abs/2410.12640)
+
+[Kinematical signatures: Distinguishing between warps and radial flows](https://arxiv.org/abs/2410.14457)
+
+[Planet Formation Mechanisms (REVIEW,Ormel)](https://arxiv.org/abs/2410.14430)
+
+[Orbits and masses in two triple systems (Tokovinin)](https://arxiv.org/abs/2410.13963)
+
+[Spirals, rings, and vortices shaped by shadows in protoplanetary disks (Dullemond,Benisty,Nelson,Birnstiel)](https://arxiv.org/abs/2410.13932)
+
+
