@@ -26,3 +26,8 @@ Papers for discussion
 
 [Transmission spectroscopy of the hot-Saturn HD 149026b](https://arxiv.org/abs/2410.10820)
 
+[Relationship Between Uranus and Neptune at Late Stages of Dynamical Evolution (Murray-Clay, Volk)](https://arxiv.org/abs/2410.11813)
+
+[Proper Motions of the Dust Clumps in the Protoplanetary Disk MWC 758](https://arxiv.org/abs/2410.11679)
+
+[Rapid heating and cooling of the highly-eccentric Hot Jupiter HAT-P-2b (de Beurs, Fortney, Dessert, etc)](https://arxiv.org/abs/2410.11643)
