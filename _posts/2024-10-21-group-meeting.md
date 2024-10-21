@@ -31,3 +31,11 @@ Papers for discussion
 [Proper Motions of the Dust Clumps in the Protoplanetary Disk MWC 758](https://arxiv.org/abs/2410.11679)
 
 [Rapid heating and cooling of the highly-eccentric Hot Jupiter HAT-P-2b (de Beurs, Fortney, Dessert, etc)](https://arxiv.org/abs/2410.11643)
+
+[Planetary Mass Determinations from a Simplified Photodynamical Model](https://arxiv.org/abs/2410.11401)
+
+[A Hot Saturn Orbiting an Oscillating Red Giant Star (TESS,Saunders,Huber,Schlaufman,etc)](https://arxiv.org/abs/2410.11037)
+
+[Global Simulations of Gravitational Instability in Protostellar Disk (Jian,Stone)](https://arxiv.org/abs/2410.12042)
+
+[Metal pollution in Sun-like stars from destruction of ultra-short-period planets (O'Connor,Lai)](https://arxiv.org/abs/2410.11935)
