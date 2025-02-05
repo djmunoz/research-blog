@@ -32,3 +32,8 @@ Papers for discussion
 
 [Diverse White Dwarf Debris Disks Revealed by JWST (Farihi,Kenyon,Wyatt)](https://arxiv.org/abs/2501.18338)
 
+[Planetesimal formation in a pressure bump induced by infall (Birnstierl,Stammler,Drążkowska)](https://arxiv.org/abs/2501.17857)
+
+[Carving the Edges of the Rocky Planet Population (E.Lee,Owen)](https://arxiv.org/abs/2501.17241)
+
+[Dynamics of small particles in a protoplanetary disk (Ciesla)](https://arxiv.org/abs/2501.17232)
