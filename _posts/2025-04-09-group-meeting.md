@@ -20,5 +20,11 @@ Papers for discussion
 
 [Oligarchic growth of protoplanets in planetesimal rings (Kokubo)](https://arxiv.org/abs/2504.05667)
 
-[dark matter density spike around the primary black hole in OJ 287 (Valtonen)](https://arxiv.org/abs/2504.05715)
+[Dark matter density spike around the primary black hole in OJ 287 (Valtonen)](https://arxiv.org/abs/2504.05715)
+
+[Determinations of asteroid masses using mutual encounters](https://arxiv.org/abs/2504.01184)
+
+[Inference from Polarized Light Curves of Sagittarius A*](https://arxiv.org/abs/2504.01114)
+
+[Microphysical properties of external photoevaporation of protoplanetary discs (Haworth)](https://arxiv.org/abs/2504.01825)
 
