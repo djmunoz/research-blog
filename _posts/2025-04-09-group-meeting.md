@@ -28,3 +28,9 @@ Papers for discussion
 
 [Microphysical properties of external photoevaporation of protoplanetary discs (Haworth)](https://arxiv.org/abs/2504.01825)
 
+[Do accretion-powered stellar winds help spin down T Tauri stars? (Gerhig,Gaidos,Turner)](https://arxiv.org/abs/2504.03374)
+
+[Statistical Alignment Between Disks and Stellar Rotation](https://arxiv.org/abs/2504.02990)
+
+[Hypermagnetized Multiphase Circumbinary Accretion Around Supermassive Black Hole Binaries (Hopkins,Most)](https://arxiv.org/abs/2504.03874)
+
