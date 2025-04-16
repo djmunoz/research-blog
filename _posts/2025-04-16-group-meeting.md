@@ -20,6 +20,8 @@ Papers for discussion
 
 [Broad-line region in the supermassive black hole binary candidate PG 1302-102 (de Rosa)](https://arxiv.org/abs/2504.06331)
 
+[Discovery of extreme Quasi-Periodic Eruptions in a newly accreting massive black hole](https://arxiv.org/abs/2504.07169)
+
 [Disc-planet misalignment from an unstable triple system (Nealon)](https://arxiv.org/abs/2504.07182)
 
 [Wide Binaries from GAIA DR3 : testing GR vs MOND](https://arxiv.org/abs/2504.07569)
