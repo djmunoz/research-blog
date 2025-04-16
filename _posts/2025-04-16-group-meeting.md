@@ -27,3 +27,5 @@ Papers for discussion
 [Revealing a main-sequence star that consumed a planet with JWST](https://arxiv.org/abs/2504.07275)
 
 [Unveiling the atmosphere of the super-Jupiter HAT-P-14 b with JWST](https://arxiv.org/abs/2504.08903)
+
+[Numerical simulations of the interaction between the stellar magnetic field and a planet (DNC Lin)](https://arxiv.org/abs/2504.09390)
