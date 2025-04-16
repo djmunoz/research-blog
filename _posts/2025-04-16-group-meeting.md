@@ -14,3 +14,4 @@ Papers for discussion
 
 [Formation of Ba stars : impact of wind Roche lobe overflow and circumbinary disk](https://arxiv.org/abs/2504.10939)
 
+[Planetary masses in the GJ1061 system from planet-planet interaction](https://arxiv.org/abs/2504.10926)
