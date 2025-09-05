@@ -10,3 +10,10 @@
 
 [Proto-planetary disk composition](https://arxiv.org/abs/2509.03724)
 
+[Hydrogen-deficient binary stars with magnetic braking (Tout)](https://arxiv.org/abs/2509.03412)
+
+[Search for Past Stellar Encounters and the Origin of 3I/ATLAS](https://arxiv.org/abs/2509.03361)
+
+[The Influence of Cold Jupiters in the Formation of Close-in planets (Petrovich,Silsbee)](https://arxiv.org/abs/2509.02745)
+
+[Little Red Dots Are Nurseries of Massive Black Holes (Pacucci,Hernquist)](https://arxiv.org/abs/2509.02664)
