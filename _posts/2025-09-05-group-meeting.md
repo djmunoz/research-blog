@@ -17,3 +17,8 @@
 [The Influence of Cold Jupiters in the Formation of Close-in planets (Petrovich,Silsbee)](https://arxiv.org/abs/2509.02745)
 
 [Little Red Dots Are Nurseries of Massive Black Holes (Pacucci,Hernquist)](https://arxiv.org/abs/2509.02664)
+
+[Sub-Jupiter Gas Giants Orbiting Giant Stars (Jenkins,Brahm)](https://arxiv.org/abs/2509.02507)
+
+[Supermassive black hole growth from stellar binary encounters (Bromley)](https://arxiv.org/abs/2509.02316)
+
