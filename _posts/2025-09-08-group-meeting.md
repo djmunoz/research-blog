@@ -6,13 +6,13 @@ published: true
 ---
 
 Papers for discussion
-======================
+---------------------
 
-Planets and Planet Formation
----------------------------
+#### Planets and Planet Formation
 
-Other
----------------------------
+
+#### Other
+
 
 [A direct black hole mass measurement in a Little Red Dot at the Epoch of Reionization](https://arxiv.org/abs/2508.21748)
 
