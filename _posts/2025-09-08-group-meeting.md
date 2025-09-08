@@ -20,7 +20,11 @@ Papers for discussion
 
 [Radiative Transfer Modeling of a Shadowed Protoplanetary Disk (Williams)](https://arxiv.org/abs/2509.01937)
 
-[ALMA Reveals an Eccentricity Gradient in the Fomalhaut Debris Disk (Lynch,Kennedy,Sefilian,Wyatt,others)]
+[ALMA Reveals an Eccentricity Gradient in the Fomalhaut Debris Disk (Lynch,Kennedy,Sefilian,Wyatt,others)](https://arxiv.org/abs/2509.02884)
+
+[Fomalhaut Debris Disk Confirms Apsidal Width Variation](https://arxiv.org/abs/2509.02825)
+
+
 
 #### Binaries, Black holes, compact objects,etc
 
