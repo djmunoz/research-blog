@@ -10,6 +10,8 @@ Papers for discussion
 
 #### Planets and Planet Formation
 
+[A carbon-rich atmosphere on a windy pulsar planet (Dessert,C.Miller,Bean,others)](https://arxiv.org/abs/2509.04558)
+
 [Observation of an Accreting Planetary-Mass Companion with Signs of Disk-Disk Interaction in Orion](https://arxiv.org/abs/2509.04944)
 
 [Negative Polarisation of 3I/ATLAS](https://arxiv.org/abs/2509.05181)
@@ -17,6 +19,8 @@ Papers for discussion
 [Evolution and Internal Structure of Neptunes](https://arxiv.org/abs/2509.04564)
 
 [Radiative Transfer Modeling of a Shadowed Protoplanetary Disk (Williams)](https://arxiv.org/abs/2509.01937)
+
+[ALMA Reveals an Eccentricity Gradient in the Fomalhaut Debris Disk (Lynch,Kennedy,Sefilian,Wyatt,others)]
 
 #### Binaries, Black holes, compact objects,etc
 
