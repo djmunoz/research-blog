@@ -10,8 +10,15 @@ Papers for discussion
 
 #### Planets and Planet Formation
 
+[Observation of an Accreting Planetary-Mass Companion with Signs of Disk-Disk Interaction in Orion](https://arxiv.org/abs/2509.04944)
 
-#### Other
+[Negative Polarisation of 3I/ATLAS](https://arxiv.org/abs/2509.05181)
+
+[Evolution and Internal Structure of Neptunes](https://arxiv.org/abs/2509.04564)
+
+[Radiative Transfer Modeling of a Shadowed Protoplanetary Disk (Williams)](https://arxiv.org/abs/2509.01937)
+
+#### Binaries, Black holes, compact objects,etc
 
 
 [A direct black hole mass measurement in a Little Red Dot at the Epoch of Reionization](https://arxiv.org/abs/2508.21748)
@@ -19,8 +26,6 @@ Papers for discussion
 [Looking beyond lambda (Riess)](https://arxiv.org/abs/2509.00359) 
 
 [Wide binaries in an ultra-faint dwarf galaxy (El-Badry)](https://arxiv.org/abs/2509.04555)
-
-[Radiative Transfer Modeling of a Shadowed Protoplanetary Disk (Williams)](https://arxiv.org/abs/2509.01937)
 
 [Do both black holes spin in merging binaries?](https://arxiv.org/abs/2509.04706)
 
