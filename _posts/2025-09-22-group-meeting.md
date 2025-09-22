@@ -32,10 +32,12 @@ Papers for discussion
 
 [An Integrated Approach to Rocky Planet Formation](https://arxiv.org/abs/2509.12713)
 
-
+[An Introduction to Dust Evolution and Vertical Transport in Protoplanetary Disks](https://arxiv.org/abs/2509.10614)
 
 #### Binaries, Black holes, compact objects,etc
 
 [Assembling GW231123 in star clusters (Spera, Arca Sedda)](https://arxiv.org/abs/2509.10609)
 
+[Active galactic nuclei do not exhibit stably periodic brightness variations (El-badry,Hogg,Rix)](https://arxiv.org/abs/2509.10601)
 
+[Gravitational Recoil and Suppression of Super Massive Black Hole Seeds in the Early Universe](https://arxiv.org/abs/2509.10564)
