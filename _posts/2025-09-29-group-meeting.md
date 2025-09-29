@@ -16,9 +16,11 @@ Papers for discussion
 
 [A Thick Volatile Atmosphere on the Ultra-Hot Super-Earth TOI-561 b (Lichtenberg)](https://arxiv.org/abs/2509.17231)
 
-[Confirmed Resonance in the K2-19 System (Masuda,Petigura)]()
+[Confirmed Resonance in the K2-19 System (Masuda,Petigura)](https://arxiv.org/abs/2509.18031)
 
 
 #### Binaries, Black holes, compact objects,etc
 
 [Binary black holes in magnetized AGN disks](https://arxiv.org/abs/2509.16796)
+
+[Binary black holes gone MAD (Paschalidis)](https://arxiv.org/abs/2509.18254)
