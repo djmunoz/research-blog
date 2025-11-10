@@ -24,6 +24,10 @@ Papers for discussion
 
 [ Most Common Stars May Lack Large, Habitable-Zone Moons (Weinberg)](https://www.arxiv.org/abs/2511.03625)
 
+[Occurrence Rate Estimates for Exoplanets in Small-Separation Binary Star (Batalha)](https://arxiv.org/abs/2511.02643)
+
+[Hot Jupiter Origin Constrained by a Broken Age-Frequency Relation](https://arxiv.org/abs/2510.26084)
+
 #### Binaries, Black holes, compact objects,etc
 
 [Common Envelope Formalism for Triples (Distefano)](https://www.arxiv.org/abs/2511.04857)
@@ -35,4 +39,7 @@ Papers for discussion
 [LISA Galactic foreground (Sesana)](https://www.arxiv.org/abs/2511.03604)
 
 [A Face-on Accretion Disk in Sgr A∗](https://www.arxiv.org/abs/2511.02186)
+
+
+[Runaway Periodic Eruptions of AT2023uqm (Filippenko)](https://arxiv.org/abs/2510.26561)
 
