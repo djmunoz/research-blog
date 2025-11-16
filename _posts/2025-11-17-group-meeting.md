@@ -13,3 +13,4 @@ Papers for discussion
 
 #### Binaries, Black holes, compact objects,etc
 
+[Heavy black hole seed survivors (Haiman,Pacucci)](https://www.arxiv.org/abs/2511.04736) (Samantha)
