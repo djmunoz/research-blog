@@ -26,7 +26,7 @@ ___
 
 [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS)](https://arxiv.org/abs/2601.12128)
 
-[Interior dynamics of envelopes around disk-embedded planets (Lambrechts)](https://arxiv.org/abs/2601.12074) → Aiden
+[Interior dynamics of envelopes around disk-embedded planets (Lambrechts)](https://arxiv.org/abs/2601.12074) → Aiden 
 
 [Nearby Planetary Companions to Hot Jupiters (Vanderburg)](https://arxiv.org/abs/2601.13302)
 
