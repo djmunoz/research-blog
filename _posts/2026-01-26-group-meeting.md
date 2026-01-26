@@ -32,7 +32,7 @@ ___
 
 [Most Hot Jupiters Were Cool Giants](https://arxiv.org/abs/2601.14367) 
 
-[The Circumbinary Disk of HD 34700A (Benisty,Teague)](https://arxiv.org/abs/2601.15262)
+[The Circumbinary Disk of HD 34700A (Benisty,Teague)](https://arxiv.org/abs/2601.15262) → Grace
 
 [Towards a global model for planet formation (Mordasini)](https://arxiv.org/abs/2601.02479) → Aiden
 
@@ -52,6 +52,9 @@ ___
 
 [An Extremely Eccentric Binary with the Nearest Known Black Hole](https://arxiv.org/abs/2601.12999)
 
+[Polar Circumbinary Disks (Nixon,Armitage)](https://arxiv.org/abs/2601.05932) → Grace
+
+[Circumbinary Disk Occultation Candidates](https://arxiv.org/abs/2601.16828) → Grace
 ___
 
 #### **Solar System**
