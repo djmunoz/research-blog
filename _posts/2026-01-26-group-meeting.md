@@ -36,6 +36,7 @@ Papers for discussion
 
 [Callisto's Nonresonant Orbit (Batygin)](https://arxiv.org/abs/2601.00786)
 
+___
 
 #### **Binaries, Black holes, compact objects,etc**
 
@@ -49,6 +50,7 @@ Papers for discussion
 
 [An Extremely Eccentric Binary with the Nearest Known Black Hole](https://arxiv.org/abs/2601.12999)
 
+___
 
 #### **Solar System**
 
