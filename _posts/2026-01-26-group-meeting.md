@@ -32,9 +32,9 @@ Papers for discussion
 
 [The Circumbinary Disk of HD 34700A (Benisty,Teague)](https://arxiv.org/abs/2601.15262)
 
-[Towards a global model for planet formation (Mordasini)](https://arxiv.org/abs/2601.02479)
+[Towards a global model for planet formation (Mordasini)](https://arxiv.org/abs/2601.02479) &rarr Aiden
 
-[Callisto's Nonresonant Orbit (Batygin)](https://arxiv.org/abs/2601.00786)
+[Callisto's Nonresonant Orbit (Batygin)](https://arxiv.org/abs/2601.00786) &rarr Aiden
 
 ___
 
