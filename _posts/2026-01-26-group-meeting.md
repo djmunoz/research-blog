@@ -8,6 +8,8 @@ published: true
 Papers for discussion
 ---------------------
 
+___
+
 #### **Planets and Planet Formation**
 
 [ALMA view of the planet-hosting WISPIT 2 disk (Benisty,Teague)](https://arxiv.org/abs/2601.15948)
@@ -32,9 +34,9 @@ Papers for discussion
 
 [The Circumbinary Disk of HD 34700A (Benisty,Teague)](https://arxiv.org/abs/2601.15262)
 
-[Towards a global model for planet formation (Mordasini)](https://arxiv.org/abs/2601.02479) &rarr Aiden
+[Towards a global model for planet formation (Mordasini)](https://arxiv.org/abs/2601.02479) → Aiden
 
-[Callisto's Nonresonant Orbit (Batygin)](https://arxiv.org/abs/2601.00786) &rarr Aiden
+[Callisto's Nonresonant Orbit (Batygin)](https://arxiv.org/abs/2601.00786) → Aiden
 
 ___
 
@@ -55,3 +57,5 @@ ___
 #### **Solar System**
 
 [YORP effect in asteroid families](https://arxiv.org/abs/2601.12972)
+
+___
