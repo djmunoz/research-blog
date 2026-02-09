@@ -29,11 +29,11 @@ ___
 
 [On the nature of the eccentric O+BH binary candidate VFTS 812](https://arxiv.org/abs/2602.03650)
 
-[binary black hole formation through stable mass transfer (Zevin,Andrews,Kalogera)](https://arxiv.org/abs/2602.03629)
+[Binary black hole formation through stable mass transfer (Zevin,Andrews,Kalogera)](https://arxiv.org/abs/2602.03629)
 
-[ Generation of Hyperbolic Trajectories Via A Single Close Encounter (Seligman)](https://arxiv.org/abs/2602.04806)
+[Generation of Hyperbolic Trajectories Via A Single Close Encounter (Seligman)](https://arxiv.org/abs/2602.04806)
 
-[Intermediate-Mass Black Hole Formation from Hierarchical Mergers in Galactic Nuclei (Rasio)](https://arxiv.org/abs/2602.04176)
+[Intermediate-Mass Black Hole Formation from Hierarchical Mergers in Galactic Nuclei (Rasio)](https://arxiv.org/abs/2602.04176) → Graace
 
 [Long-term timing of the relativistic binary PSR J1906+0746](https://arxiv.org/abs/2602.05947)
 
@@ -46,5 +46,6 @@ ___
 
 #### **Solar System**
 
-[On the forced orbital plane of the Hilda asteroids (Malhotra)](https://arxiv.org/abs/2602.05044)
+[On the forced orbital plane of the Hilda asteroids (Malhotra)](https://arxiv.org/abs/2602.05044) → Remi
+
 ___
