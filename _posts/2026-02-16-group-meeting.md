@@ -12,9 +12,18 @@ ___
 
 #### **Planets and Planet Formation**
 
-[Gas and dust opacities in shaping the evolution of the inner disc edge (Flock)](https://arxiv.org/abs/2602.10674)
+[Gas and dust opacities in shaping the evolution of the inner disc edge (Flock)](https://arxiv.org/abs/2602.10674) → Aiden
 
 [Hot super Earth occurrence is enhanced by cold Jupiters (Dai)](https://arxiv.org/abs/2602.11017)
+
+[Machine learning for radiative hydrodynamics in astrophysics](https://arxiv.org/abs/2601.05155) → Aiden
+
+[Satellites and small bodies with ALMA (Brown,Teague)](https://arxiv.org/abs/2602.06126)
+
+[Embedded circumplanetary winds on the circumstellar disk (Benitez-Llambday,Casassus)](https://arxiv.org/abs/2602.08087)  → Aiden
+
+
+
 
 ___
 
@@ -30,6 +39,10 @@ ___
 
 [Supermassive Black Hole](https://arxiv.org/abs/2602.12272)
 
+[Non-thermal X-ray Emission from Merging Massive Black Hole Binaries (Daavelar)](https://arxiv.org/abs/2602.12165) → Grace
+
+[Poloidal Field Amplification through Compression](https://arxiv.org/abs/2602.11112) → Grace
+
 
 
 ___
@@ -39,9 +52,8 @@ ___
 
 [Reversal of Spin: Comet 41P/Tuttle-Giacobini-Kresak (Jewitt)](https://arxiv.org/abs/2602.06403)
 
-[Satellites and small bodies with ALMA (Brown,Teague)](https://arxiv.org/abs/2602.06126)
-
-[Embedded circumplanetary winds on the circumstellar disk (Benitez-Llambday,Casassus)](https://arxiv.org/abs/2602.08087)
-
 [Saturn's Rings in A Two-Stage Saturnian System Instability (Cuk,Fuller)](https://arxiv.org/abs/2602.09281)
+
+[Flyby Reconnaissance Missions of Potentially Hazardous Asteroid](https://arxiv.org/abs/2602.10040) → Grace
+
 ___
