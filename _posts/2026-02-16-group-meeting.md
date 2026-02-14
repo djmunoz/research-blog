@@ -39,9 +39,9 @@ ___
 
 [Supermassive Black Hole](https://arxiv.org/abs/2602.12272)
 
-[Non-thermal X-ray Emission from Merging Massive Black Hole Binaries (Daavelar)](https://arxiv.org/abs/2602.12165) → Grace
+[Non-thermal X-ray Emission from Merging Massive Black Hole Binaries (Daavelar)](https://arxiv.org/abs/2602.11112) → Grace
 
-[Poloidal Field Amplification through Compression](https://arxiv.org/abs/2602.11112) → Grace
+[Poloidal Field Amplification through Compression](https://arxiv.org/abs/2602.12165) → Grace
 
 
 
