@@ -18,6 +18,7 @@ ___
 
 [Compact CO emission and no evidence of radial drift (Cleeves,Williams,Wilner,etc)](https://arxiv.org/abs/2604.11292)
 
+[Observations of highly inclined disks with ALMA (Duchene,Stapelfeldt)](https://arxiv.org/abs/2604.11247)
 ___
 
 #### **Binaries, Black holes, compact objects,etc**
