@@ -18,15 +18,21 @@ ___
 
 [Cooling-regulated gas accretion onto gap-opening planets (Lambrechts)](https://arxiv.org/abs/2608.28019) →  Aiden
 
+[AU Mic Structure (Murray-Clay,MacGregor)](https://arxiv.org/abs/2607.27186)
 ___
 
 #### **Binaries, Black holes, compact objects,etc**
 
+[Overmassive supermassive black holes in SDSS close galaxy pairs (Comerford)](https://arxiv.org/abs/2608.27730)
 
 ___
 
 
 #### **Solar System**
+
+
+[Catastrophic tidal disruption of heterogeneous rubble piles](https://arxiv.org/pdf/2608.27131)
+urr
 
 
 
