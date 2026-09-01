@@ -16,7 +16,7 @@ ___
 
 [Obliquity Measurements of Four High-Priority Ariel Targets (Polanski,Rice,Clark,van Belle et al)](https://arxiv.org/abs/2608.23662)
 
-[Cooling-regulated gas accretion onto gap-opening planets (Lambrechts)](https://arxiv.org/abs/2608.28019) :arrow_right: Aiden
+[Cooling-regulated gas accretion onto gap-opening planets (Lambrechts)](https://arxiv.org/abs/2608.28019) →  Aiden
 
 ___
 
