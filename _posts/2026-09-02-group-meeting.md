@@ -18,18 +18,25 @@ ___
 
 [Cooling-regulated gas accretion onto gap-opening planets (Lambrechts)](https://arxiv.org/abs/2608.28019) →  Aiden
 
-[AU Mic Structure (Murray-Clay,MacGregor)](https://arxiv.org/abs/2607.27186)
+[AU Mic Structure (Murray-Clay,MacGregor)](https://arxiv.org/abs/2607.27186) →  Marc
+
+[Planetary Obliquity Distribution of Warm Jupiters (Winn)](https://arxiv.org/pdf/2609.01599)
 ___
 
 #### **Binaries, Black holes, compact objects,etc**
 
+[The Formation of Very Close Binary Stars (Moe)](https://arxiv.org/abs/2609.00426)
+
 [Overmassive supermassive black holes in SDSS close galaxy pairs (Comerford)](https://arxiv.org/abs/2608.27730)
+
+[Nanohertz Gravitational-Wave Constraints on Supermassive Binary Black Holes](https://arxiv.org/abs/2609.00613)
 
 ___
 
 
 #### **Solar System**
 
+[Optical Colors as Compressed Spectral Information for TNOs (Adams,Malhotra)](https://arxiv.org/pdf/2609.01169) →  Remi
 
 [Catastrophic tidal disruption of heterogeneous rubble piles](https://arxiv.org/pdf/2608.27131)
 urr
