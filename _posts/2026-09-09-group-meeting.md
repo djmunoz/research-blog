@@ -20,7 +20,7 @@ ___
 
 [Fundamental Parameters of Planet Formation (E.Lee)](https://arxiv.org/abs/2609.00140)  → Marc
 
-[Transiting Planetary Systems with Distant Giant Companions Remain Moderately Coplana](https://arxiv.org/abs/2609.01377)  → Marc
+[Transiting Planetary Systems with Distant Giant Companions Remain Moderately Coplanar](https://arxiv.org/abs/2609.01377)  → Marc
 
 ___
 
