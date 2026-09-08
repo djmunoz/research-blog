@@ -18,7 +18,7 @@ ___
 
 #### **Binaries, Black holes, compact objects,etc**
 
-
+[sub-pc SMBH binary candidate PG 1302-102](https://arxiv.org/abs/2608.29682) ⟶ Alex
 
 ___
 
