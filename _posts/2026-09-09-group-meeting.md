@@ -24,6 +24,6 @@ ___
 
 #### **Solar System**
 
-
+[Taxonomic Diversity of the Small NEOs (Lopez-Oquendo,Trilling)](https://arxiv.org/abs/2608.28779) ⟶ Remi
 
 ___
