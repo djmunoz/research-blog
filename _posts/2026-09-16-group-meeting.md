@@ -18,8 +18,11 @@ ___
 
 #### **Binaries, Black holes, compact objects,etc**
 
+[The accuracy of merger times in hierarchical black hole triples (Viña-Gomez)](https://arxiv.org/abs/2609.06031) 
 
+[Unresolved Binary Systems in the Rubin Era I (Drout,Speagle)](https://arxiv.org/list/astro-ph/recent?skip=600&show=50)
 
+[tilting rate of the Milky Way disc](https://arxiv.org/abs/2609.05615) → Alex
 ___
 
 #### **Solar System**
