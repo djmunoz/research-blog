@@ -12,7 +12,7 @@ ___
 
 #### **Planets and Planet Formation**
 
-
+[Effect of the atmospheric C/O ratio on interiors of hot Jupiters (Miguel)](https://arxiv.org/abs/2609.07278)
 
 ___
 
