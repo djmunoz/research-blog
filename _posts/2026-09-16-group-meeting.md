@@ -12,6 +12,8 @@ ___
 
 #### **Planets and Planet Formation**
 
+[Constraining Tidal Migration with the Hot Jupiter Population (Winn,Quataert,Yee,Su,etc)](https://arxiv.org/pdf/2609.10850)
+
 [Effect of the atmospheric C/O ratio on interiors of hot Jupiters (Miguel)](https://arxiv.org/abs/2609.07278)
 
 [Magnetically Driven Obliquity in Circumplanetary Disks (Morbidelli,Pessah)](https://arxiv.org/abs/2609.10035)
