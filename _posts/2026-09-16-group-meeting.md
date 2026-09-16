@@ -14,6 +14,12 @@ ___
 
 [Effect of the atmospheric C/O ratio on interiors of hot Jupiters (Miguel)](https://arxiv.org/abs/2609.07278)
 
+[Magnetically Driven Obliquity in Circumplanetary Disks (Morbidelli,Pessah)](https://arxiv.org/abs/2609.10035)
+
+[Detecting White Dwarf Exoplanets](https://arxiv.org/abs/2609.09481)
+
+[Dust dynamics in gravitoturbulent protoplanetary discs](https://arxiv.org/abs/2609.10375) → Aiden
+
 ___
 
 #### **Binaries, Black holes, compact objects,etc**
@@ -22,7 +28,9 @@ ___
 
 [Unresolved Binary Systems in the Rubin Era I (Drout,Speagle)](https://arxiv.org/list/astro-ph/recent?skip=600&show=50)
 
-[tilting rate of the Milky Way disc](https://arxiv.org/abs/2609.05615) → Alex
+[Tilting rate of the Milky Way disc](https://arxiv.org/abs/2609.05615) → Alex
+
+[Eccentric Supermassive Black Hole Binaries in Retrograde Disks (MacFadyen,Haiman,D'Orazio,etc)](https://arxiv.org/abs/2609.09314)
 ___
 
 #### **Solar System**
