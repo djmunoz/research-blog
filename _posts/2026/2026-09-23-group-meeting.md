@@ -29,6 +29,7 @@ ___
 [A fifth companion in the HR 8799 system (Lagrange)](https://arxiv.org/abs/2609.20996)
 
 [3D Simulations of Dust Filtration and Accretion in PDS 70 c (Isella,D'Angelo,Dempsey)](https://arxiv.org/abs/2609.24898)
+
 ___
 
 #### **Binaries, Black holes, compact objects,etc**
