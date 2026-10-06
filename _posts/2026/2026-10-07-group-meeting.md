@@ -42,6 +42,8 @@ ___
 [A triple-induced merger in T Ori C (Portegies Zwart)](https://arxiv.org/abs/2609.38550)
 
 [Production of White Dwarf Debris Disks from Planetary Collisions and Poynting-Robertson Drag (Adams,Batygin](https://arxiv.org/abs/2610.06780)
+
+
 ___
 
 #### **Solar System**
