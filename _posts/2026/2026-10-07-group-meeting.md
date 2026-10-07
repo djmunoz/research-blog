@@ -41,14 +41,14 @@ ___
 
 [A triple-induced merger in T Ori C (Portegies Zwart)](https://arxiv.org/abs/2609.38550)
 
-[Production of White Dwarf Debris Disks from Planetary Collisions and Poynting-Robertson Drag (Adams,Batygin](https://arxiv.org/abs/2610.06780)
+[Production of White Dwarf Debris Disks from Planetary Collisions and Poynting-Robertson Drag (Adams,Batygin)](https://arxiv.org/abs/2610.06780)
 
 
 ___
 
 #### **Solar System**
 
-[Rocky Core of Haumea Revealed by Satellite Dynamics (Proudfoot,Ragozzine)](https://arxiv.org/abs/2609.36037) → Marc
+[Rocky Core of Haumea Revealed by Satellite Dynamics (Proudfoot,Ragozzine,Grundy)](https://arxiv.org/abs/2609.36037) → Marc
 
 [Modeling of the Yarkovsky effect (Scheeres)](https://arxiv.org/abs/2609.38549)
 
