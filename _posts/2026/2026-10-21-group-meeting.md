@@ -36,6 +36,7 @@ ___
 [Planets surviving common envelope evolution (Vanderburg,Becker,Rappaport)](https://arxiv.org/pdf/2610.27055)
 
 [A Hot Jupiter and Sub-Neptune In A 2:1 Mean-Motion Resonance](https://arxiv.org/abs/2610.28533)
+
 ___
 
 
@@ -48,6 +49,7 @@ ___
 [Balmer breaks in accreting super-massive black hole binaries (Tiede,Haimain)](https://arxiv.org/abs/2610.27076)
 
 [Resonant three-mode coupling in asteroseismology (Ogilvie)](https://arxiv.org/abs/2610.28513)
+
 
 ___
 
