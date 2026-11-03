@@ -18,9 +18,9 @@ ___
 
 [Retention of primordial atmospheres through giant impacts (Korenaga)](https://arxiv.org/abs/2610.36446)
 
-[Searching for Circumplanetary Dust in the Cavity of the AB Aurigae Disk with ALMA (Bowler, Y. Zhou)](https://arxiv.org/abs/2610.37792)  Aiden
+[Searching for Circumplanetary Dust in the Cavity of the AB Aurigae Disk with ALMA (Bowler, Y. Zhou)](https://arxiv.org/abs/2610.37792)  → Aiden
 
-[A double debris disc around a white dwarf sculpted by two planetary bodies](https://arxiv.org/abs/2610.37773) Marc
+[A double debris disc around a white dwarf sculpted by two planetary bodies](https://arxiv.org/abs/2610.37773) → Marc
 
 [Mapping Stellar Obliquity Across Space and Time (Biddle,Bowler)](https://arxiv.org/abs/2610.40527)
 
@@ -30,7 +30,7 @@ ___
 
 #### **Stars, Binaries, Black holes, compact objects,etc**
 
-[2:1 Harmonics in the Radio Light Curves of Supermassive Black Hole Binary Candidates (Readhead,Blandford,Begelman)] (https://arxiv.org/abs/2610.36732) Alex
+[2:1 Harmonics in the Radio Light Curves of Supermassive Black Hole Binary Candidates (Readhead,Blandford,Begelman)](https://arxiv.org/abs/2610.36732) → Alex
 
 [Extreme eccentricity in double neutron stars without exotic physics](https://arxiv.org/abs/2610.37759)
 
@@ -45,7 +45,7 @@ ___
 
 #### **Solar System**
 
-[Large Trans-Neptunian Object in Early Rubin (Holman et al)](https://arxiv.org/abs/2610.38693) Remi
+[Large Trans-Neptunian Object in Early Rubin (Holman et al)](https://arxiv.org/abs/2610.38693) → Remi
 
 
 
