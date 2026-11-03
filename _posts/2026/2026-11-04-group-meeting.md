@@ -24,7 +24,11 @@ ___
 
 [Mapping Stellar Obliquity Across Space and Time (Biddle,Bowler)](https://arxiv.org/abs/2610.40527)
 
+[Capture of interstellar planetesimals by collapsing cores (Silsbee)](https://arxiv.org/abs/2611.00537)
 
+[A precessing eccentric hot Jupiter and a misaligned substellar companion](http://arxiv.org/abs/2611.00378)
+
+[Young Planets around Young Accreting Stars: II (Z. Zhu)](https://arxiv.org/abs/2610.38097) → Aiden
 ___
 
 
