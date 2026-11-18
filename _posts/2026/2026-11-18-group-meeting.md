@@ -38,33 +38,17 @@ ___
 
 [A sub-Neptune and a super-Jovian in the TOI-1699 stellar binary](https://arxiv.org/abs/2611.18481)
 
-[Can turbulence hide the dust rings expected at outer pressure bumps?](https://arxiv.org/abs/2611.04676) → Aiden
+[Can turbulence hide the dust rings expected at outer pressure bumps? (Pinilla)](https://arxiv.org/abs/2611.04676) → Aiden
  
-[Planet gaps can create ice lines and observable dust rings](https://arxiv.org/abs/2611.02485)
-
-[Inner disk water and the limits of gap location as a predictor](https://arxiv.org/abs/2611.20617)
+[Inner disk water and the limits of gap location as a predictor (Long,Pascucci,Pinilla,etc)](https://arxiv.org/abs/2611.20617)
 
 [No significant rotation of the spiral pattern in IM Lup](https://arxiv.org/abs/2611.07405)
 
-[Kinematic signatures of stellar flybys in protoplanetary disks](https://arxiv.org/abs/2611.12543)
-
-[A cold gas giant candidate for formation by disk instability](https://arxiv.org/abs/2611.16032)
-
-[Testing gravitationally driven disk evolution against young disks](https://arxiv.org/abs/2611.12655)
-
-[Dust evolution in disks with magnetized winds](https://arxiv.org/abs/2611.08484)
+[Dust evolution in disks with magnetized winds (Pudritz)](https://arxiv.org/abs/2611.08484)
  
-[exoALMA statistics of gaseous substructure in nearly face-on disks](https://arxiv.org/abs/2611.01209)
+[exoALMA statistics of gaseous substructure in nearly face-on disks (Teague,Andrews,Bae,Czekala,Benisty,etc)](https://arxiv.org/abs/2611.01209)
 
-[ALMA continuum detection of the circumsubstellar disk around GQ Lup B](https://arxiv.org/abs/2611.12504)
-
-[The brown dwarf desert is a mass-ratio desert](https://arxiv.org/abs/2611.12881)
-
-[Bayesian orbit fitting with Gaia epoch astrometry, RVs, and imaging](https://arxiv.org/abs/2611.13770)
-
-[Analytic semidiurnal atmospheric tidal torques on rocky planets](https://arxiv.org/abs/2611.07060)
-
-[Rocky exoplanet compositions and Earth-like devolatilization](https://arxiv.org/abs/2611.12581)
+[Analytic semidiurnal atmospheric tidal torques on rocky planets (Laskar,Boue)](https://arxiv.org/abs/2611.07060)
 
 
 ___
