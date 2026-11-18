@@ -73,41 +73,11 @@ ___
 #### **Stars, Binaries, Black holes, compact objects,etc**
 
 
-[A joint astrometric, eclipse-timing, and RV orbit for the V819 Her triple](https://arxiv.org/abs/2611.09551)
-
-[Improved periods and orbits for the compact triple Lambda Tauri](https://arxiv.org/abs/2611.14269)
-
-[Tidal braking does not dominate slow rotators in open clusters](https://arxiv.org/abs/2611.08925)
-
-[Mass-transfer stability with spin and tides in interacting binaries](https://arxiv.org/abs/2611.19026)
-
-[Gravitational waves from Population III black hole binaries in primordial gas disks](https://arxiv.org/abs/2611.21580)
-
-[Using microlensing to probe supermassive black hole binaries in lensed AGN](https://arxiv.org/abs/2611.15056)
-
-[Complex periodic variability in a candidate supermassive black hole binary](https://arxiv.org/abs/2611.08332)
-
-[Eccentricity improves the detectability of line-of-sight acceleration in gravitational waves](https://arxiv.org/abs/2611.13197)
-
-[Nuclear star clusters and massive black hole merger times for LISA](https://arxiv.org/abs/2611.17409)
+[Nuclear star clusters and massive black hole merger times for LISA](https://arxiv.org/abs/2611.17409) → Aiden
 
 [Repeated gravitational-wave lensing of eccentric binaries orbiting spinning SMBHs](https://arxiv.org/abs/2611.20416)
 
-[Hydrodynamic natal kicks and black hole binary formation](https://arxiv.org/abs/2611.08604)
-
-[Neutron-star and black-hole binaries have similar inferred natal kick distributions](https://arxiv.org/abs/2611.14680)
-
 [Gaia neutron star binaries can form dynamically in star clusters](https://arxiv.org/abs/2611.09039)
-
-[Stellar collisions form intermediate-mass black holes in dense clusters](https://arxiv.org/abs/2611.03812)
-
-[Relativistic tides and mode excitation in neutron-star binaries](https://arxiv.org/abs/2611.14243)
-
-[A self-shadowing black hole disk below Eddington](https://arxiv.org/abs/2611.14626)
-
-[Jet reorientations point to a warped accretion disk in GRS 1915+105](https://arxiv.org/abs/2611.03395)
-
-[A 23-minute eclipsing double white dwarf](https://arxiv.org/abs/2611.16019)
 
 [A candidate unusually massive neutron star in a wide binary](https://arxiv.org/abs/2611.14998)
 
