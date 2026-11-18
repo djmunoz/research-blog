@@ -72,9 +72,6 @@ ___
 
 #### **Stars, Binaries, Black holes, compact objects,etc**
 
-[Circumbinary disks can excite eccentricity in double white dwarfs](https://arxiv.org/abs/2611.00475)
-
-[Post-common-envelope disks, neutron-star mergers, and fast blue optical transients](https://arxiv.org/abs/2611.07326)
 
 [A joint astrometric, eclipse-timing, and RV orbit for the V819 Her triple](https://arxiv.org/abs/2611.09551)
 
@@ -122,19 +119,11 @@ ___
 
 [C/2024 L1: high-inclination Centaur or captured Halley-type comet?](https://arxiv.org/abs/2611.19581)
 
-[Collision frequencies when both orbits undergo Lidov–Kozai cycles](https://arxiv.org/abs/2611.12540)
-
 [How triaxial gravity shifts the Roche limit around minor bodies](https://arxiv.org/abs/2611.04800)
-
-[Spin axes of large Kuiper belt bodies as a test of their origin](https://arxiv.org/abs/2611.06232)
 
 [DART ejecta and the recoil momentum budget](https://arxiv.org/abs/2611.17649)
 
-[The fate of DART ejecta in the Didymos–Dimorphos system](https://arxiv.org/abs/2611.11883)
-
 [Surface roughness and radiative effects on Dimorphos within Hera's reach](https://arxiv.org/abs/2611.01235)
-
-[Radiative transfer through the optically thick DART ejecta plume](https://arxiv.org/abs/2611.18984)
 
 [Eleven trans-Neptunian objects discovered with TESS](https://arxiv.org/abs/2611.18452)
 
@@ -142,19 +131,10 @@ ___
 
 [Archival outer Solar System candidates, including four Neptune Trojans](https://arxiv.org/abs/2611.14330)
 
-[2026 ED138: century-long precovery and sticking in Neptune’s 12:7 resonance](https://arxiv.org/abs/2611.02371)
+[2026 ED138: century-long precovery and sticking in Neptune’s 12:7 resonance (Chandler,Holman)](https://arxiv.org/abs/2611.02371)
 
-[OGLE precovery and tentative rotation periods for 2026 ED138](https://arxiv.org/abs/2611.15959)
+[Earth's oxidation history constrains Theia's mass and composition (Jacobson)](https://arxiv.org/abs/2611.14842) → Michael
 
-[2025 SC79: orbital transitions between Ayló’chaxnim and Atira asteroids](https://arxiv.org/abs/2611.09884)
-
-[Planetesimal ablation supplies solids to Jupiter’s circumplanetary disk](https://arxiv.org/abs/2611.14733)
-
-[Earth's oxidation history constrains Theia's mass and composition](https://arxiv.org/abs/2611.14842)
-
-[Thermal limits on volatiles in the Hayabusa2 target 1998 KY26](https://arxiv.org/abs/2611.10275)
-
-[Parallel-in-time Solar System integration with mean elements](https://arxiv.org/abs/2611.01237)
 
 
 ___
