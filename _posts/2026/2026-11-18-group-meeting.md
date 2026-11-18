@@ -16,9 +16,7 @@ ___
 
 [WASP-4 b: light-travel time from an outer giant can mimic orbital decay](https://arxiv.org/abs/2611.16782)
 
-[Why do close-in planets survive around red clump giants?](https://arxiv.org/abs/2611.04544)
-
-[An inclined perturber and the vanishing transits of TOI-2535 b](https://arxiv.org/abs/2611.13343)
+[An inclined perturber and the vanishing transits of TOI-2535 b (S.Yee) ](https://arxiv.org/abs/2611.13343)
 
 [Time-dependent migration and eccentricity damping in overstable resonances (Schlichting) ](https://arxiv.org/abs/2611.06765) → Marc
 
