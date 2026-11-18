@@ -12,32 +12,6 @@ ___
 
 #### **Planets and Planet/Star Formation**
 
----
-layout: post
-title: "Group Meeting"
-tags: ["Group-Meetings", "Research"]
-published: true
----
-
-Papers for discussion
----------------------
-
-___
-
----
-layout: post
-title: "Group Meeting"
-tags: ["Group-Meetings", "Research"]
-published: true
----
-
-Papers for discussion
----------------------
-
-___
-
-#### **Planets and Planet/Star Formation**
-
 [Gaia-3b: a super-eccentric giant with a possible Lidov–Kozai history](https://arxiv.org/abs/2611.14714)
 
 [WASP-4 b: light-travel time from an outer giant can mimic orbital decay](https://arxiv.org/abs/2611.16782)
