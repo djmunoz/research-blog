@@ -20,21 +20,17 @@ ___
 
 [An inclined perturber and the vanishing transits of TOI-2535 b](https://arxiv.org/abs/2611.13343)
 
-[Time-dependent migration and eccentricity damping in overstable resonances](https://arxiv.org/abs/2611.06765)
+[Time-dependent migration and eccentricity damping in overstable resonances (Schlichting) ](https://arxiv.org/abs/2611.06765) → Marc
 
-[Fitting resonant exoplanet orbits with fixed points](https://arxiv.org/abs/2611.04332)
+[A candidate third planet and apsidal resonance chain in Kepler-396](https://arxiv.org/abs/2611.17667) → Marc
 
-[A candidate third planet and apsidal resonance chain in Kepler-396](https://arxiv.org/abs/2611.17667)
-
-[Tides or disk torques could break Barnard’s Star’s resonant chain](https://arxiv.org/abs/2611.13771)
 
 [Galactic tides and stellar encounters reshape wide binaries and their giant planets](https://arxiv.org/abs/2611.15913)
 
-[Exoplanets are predominantly aligned with their debris belts](https://arxiv.org/abs/2611.17423)
+[Exoplanets are predominantly aligned with their debris belts](https://arxiv.org/abs/2611.17423) → Marc
 
 [Super-Earth and cold-Jupiter architectures from transit durations](https://arxiv.org/abs/2611.05963)
 
-[Gaia astrometry of outer companions to super-Earths and sub-Neptunes](https://arxiv.org/abs/2611.21436)
 
 [Detecting hot-Jupiter tidal decay with Earth 2.0](https://arxiv.org/abs/2611.07427)
 
@@ -42,10 +38,8 @@ ___
 
 [A sub-Neptune and a super-Jovian in the TOI-1699 stellar binary](https://arxiv.org/abs/2611.18481)
 
-[Stability of double planets in compact multiplanet systems](https://arxiv.org/abs/2611.16091)
-
-[Can turbulence hide the dust rings expected at outer pressure bumps?](https://arxiv.org/abs/2611.04676)
-
+[Can turbulence hide the dust rings expected at outer pressure bumps?](https://arxiv.org/abs/2611.04676) → Aiden
+ 
 [Planet gaps can create ice lines and observable dust rings](https://arxiv.org/abs/2611.02485)
 
 [Inner disk water and the limits of gap location as a predictor](https://arxiv.org/abs/2611.20617)
@@ -59,11 +53,7 @@ ___
 [Testing gravitationally driven disk evolution against young disks](https://arxiv.org/abs/2611.12655)
 
 [Dust evolution in disks with magnetized winds](https://arxiv.org/abs/2611.08484)
-
-[Magnetic braking, spiral arms, and MRI in a newborn protostellar disk](https://arxiv.org/abs/2611.13729)
-
-[Simulating gas accretion onto a Jovian planet](https://arxiv.org/abs/2611.12819)
-
+ 
 [exoALMA statistics of gaseous substructure in nearly face-on disks](https://arxiv.org/abs/2611.01209)
 
 [ALMA continuum detection of the circumsubstellar disk around GQ Lup B](https://arxiv.org/abs/2611.12504)
