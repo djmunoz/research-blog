@@ -24,17 +24,11 @@ ___
 
 [A candidate third planet and apsidal resonance chain in Kepler-396](https://arxiv.org/abs/2611.17667) → Marc
 
-
 [Galactic tides and stellar encounters reshape wide binaries and their giant planets](https://arxiv.org/abs/2611.15913)
 
-[Exoplanets are predominantly aligned with their debris belts](https://arxiv.org/abs/2611.17423) → Marc
+[Exoplanets are predominantly aligned with their debris belts (Bowler)](https://arxiv.org/abs/2611.17423) → Marc
 
-[Super-Earth and cold-Jupiter architectures from transit durations](https://arxiv.org/abs/2611.05963)
-
-
-[Detecting hot-Jupiter tidal decay with Earth 2.0](https://arxiv.org/abs/2611.07427)
-
-[Transit timing evidence for a companion to TOI-2109 b](https://arxiv.org/abs/2611.13505)
+[Super-Earth and cold-Jupiter architectures from transit durations (F.Dai)](https://arxiv.org/abs/2611.05963)
 
 [A sub-Neptune and a super-Jovian in the TOI-1699 stellar binary](https://arxiv.org/abs/2611.18481)
 
